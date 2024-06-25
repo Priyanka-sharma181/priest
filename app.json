@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "SarvDevasthanam-priest",
+    "slug": "SarvDevasthanam-priest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.priyanka.sharma.SarvDevasthanampriest"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.priyanka.sharma.SarvDevasthanampriest"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
